@@ -11,5 +11,5 @@ Current development is focused towards the following projects:
 
 ## Contributing
 
-Interested in contributing to AcouBIM? We'd love to have your help. AcouBIM is an open-source project built by contributions from users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Interested in contributing to AcouBIM? We'd love to have your help. AcouBIM is an open-source project built by contributions from users like you. See the CONTRIBUTING file for instructions on how to contribute.
 
